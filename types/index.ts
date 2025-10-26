@@ -2,15 +2,23 @@ export interface Participant {
   id: string
   name: string
   email: string
-  profileUrl: string
-  profileStatus: string
+  qwiklabsId: string
+  track: string
+  completion: number
+  badges: number
+  lastUpdated: string
+  rank?: number
+  profileUrl?: string
+  completedAllBadges?: boolean
+  completedArcadeGame?: boolean
+  eligibleForSwag?: boolean
+  // Add these properties for the modal
   skillBadgesCompleted: number
-  skillBadgeNames: string[]
   arcadeGamesCompleted: number
-  arcadeGameNames: string[]
-  creditsRedeemed: boolean
-  allCompleted: boolean
-  eligibleForSwag: boolean
+  accessCodeRedeemed?: boolean
+  profileStatus?: string
+  completedBadges?: string[]
+  completedArcadeGames?: string[]
 }
 
 export interface Analytics {

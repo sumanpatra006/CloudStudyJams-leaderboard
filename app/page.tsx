@@ -13,6 +13,8 @@ import {
   Gift,
   CreditCard,
   FileText,
+  Clock,
+  Calendar,
 } from "lucide-react"
 import confetti from "canvas-confetti"
 import AnalyticsCard from "@/components/analytics-card"
@@ -36,6 +38,7 @@ export default function Home() {
   const [data, setData] = useState<LeaderboardData | null>(null)
   const [loading, setLoading] = useState(true)
   const [timeLeft, setTimeLeft] = useState(getTimeLeft())
+  const [isVisible, setIsVisible] = useState(false)
 
   // Confetti on load
   useEffect(() => {
@@ -83,12 +86,17 @@ export default function Home() {
     fetchData()
   }, [])
 
+  // Animation trigger
+  useEffect(() => {
+    setIsVisible(true)
+  }, [])
+
   if (loading) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-background">
+      <div className="min-h-screen flex items-center justify-center bg-linear-to-br from-slate-50 via-blue-50/30 to-indigo-100/20">
         <div className="text-center">
           <div className="inline-block animate-spin rounded-full h-12 w-12 border-b-2 border-[#4285F4]"></div>
-          <p className="mt-4 text-muted-foreground text-sm">
+          <p className="mt-4 text-gray-600 text-sm font-medium">
             Loading Cloud Study Jams data...
           </p>
         </div>
@@ -98,8 +106,8 @@ export default function Home() {
 
   if (!data) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-background">
-        <p className="text-red-500 font-medium">
+      <div className="min-h-screen flex items-center justify-center bg-linear-to-br from-slate-50 via-blue-50/30 to-indigo-100/20">
+        <p className="text-red-500 font-medium bg-white/80 backdrop-blur-sm px-6 py-3 rounded-2xl border border-red-200">
           Failed to load leaderboard data. Please refresh.
         </p>
       </div>
@@ -107,37 +115,74 @@ export default function Home() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-[#F8FAFF] via-[#E8F0FE]/50 to-[#FFFFFF] dark:from-background dark:to-[#0B132B] flex flex-col items-center text-center">
-      <div className="container mx-auto px-6 py-20 sm:py-24 relative z-10">
-        {/* Header Badge */}
-        <div className="inline-flex items-center gap-2 px-4 py-2 mb-6 rounded-full bg-[#E8F0FE] text-[#1A73E8] border border-[#D2E3FC] shadow-sm">
-          <Sparkles className="w-4 h-4" />
-          <span className="text-sm font-medium tracking-wide">
-            Google Cloud Skills Boost
-          </span>
+    <div className="min-h-screen bg-linear-to-br from-slate-50 via-blue-50/30 to-indigo-100/20 dark:from-gray-900 dark:via-blue-950/20 dark:to-indigo-900/10">
+      <div className="container mx-auto px-4 sm:px-6 py-12 sm:py-16 lg:py-20">
+        {/* Header Section */}
+        <div className={`max-w-4xl mx-auto text-center mb-16 lg:mb-24 transition-all duration-700 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}>
+          
+          {/* Badge */}
+          <div className="inline-flex items-center gap-2 px-4 py-2 mb-8 rounded-full bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm border border-blue-200/60 dark:border-blue-800/60 shadow-sm hover:shadow-md transition-shadow duration-300">
+            <Sparkles className="w-4 h-4 text-blue-600 dark:text-blue-400" />
+            <span className="text-sm font-medium text-blue-700 dark:text-blue-300 tracking-wide">
+              Google Cloud Skills Boost
+            </span>
+          </div>
+
+          {/* Main Heading */}
+          <div className="space-y-4 mb-8">
+            <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-black tracking-tight">
+              <span className="bg-linear-to-r from-[#4285F4] via-[#EA4335] to-[#FBBC05] bg-clip-text text-transparent">
+                Cloud Study Jams 2025
+              </span>
+            </h1>
+            <h2 className="text-xl sm:text-2xl text-gray-700 dark:text-gray-300 font-semibold">
+              Veer Surendra Sai University of Technology, Burla
+            </h2>
+          </div>
+
+          {/* Description */}
+          <p className="text-lg text-gray-600 dark:text-gray-400 max-w-3xl mx-auto leading-relaxed mb-12 px-4">
+            Explore the world of Google Cloud with hands-on labs, earn skill
+            badges, and compete with your peers. Track your university's progress
+            in this exciting global program designed to accelerate your cloud
+            learning journey!
+          </p>
+
+          {/* CTA Buttons */}
+          <div className="flex flex-col sm:flex-row justify-center items-center gap-4 mb-16">
+            <Link href="/leaderboard">
+              <Button className="h-12 px-8 rounded-xl bg-linear-to-r from-[#4285F4] to-[#3367D6] hover:from-[#3367D6] hover:to-[#2851C5] text-white font-semibold shadow-lg hover:shadow-xl transition-all duration-300 flex items-center gap-3 group">
+                <Trophy className="w-5 h-5" />
+                View Leaderboard
+                <ArrowRight className="w-5 h-5 transition-transform group-hover:translate-x-1" />
+              </Button>
+            </Link>
+            <a
+              href="https://docs.google.com/spreadsheets/d/1yTPHQ4FkNghhx4bc8arij1ZyChFnQxRTxPUwDN3PgMk/edit?gid=0#gid=0"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Button
+                variant="outline"
+                className="h-12 px-8 rounded-xl border-2 border-blue-200 dark:border-blue-800 bg-white/80 dark:bg-gray-800/80 backdrop-blur-sm hover:bg-blue-50 dark:hover:bg-blue-950/30 text-blue-700 dark:text-blue-300 font-semibold flex items-center gap-3 group transition-all duration-300"
+              >
+                <FileText className="w-5 h-5" />
+                Syllabus & Resources
+                <ArrowRight className="w-5 h-5 transition-transform group-hover:translate-x-1" />
+              </Button>
+            </a>
+          </div>
         </div>
 
-        {/* Heading */}
-        <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-3 bg-gradient-to-r from-[#4285F4] via-[#EA4335] to-[#FBBC05] bg-clip-text text-transparent">
-          Cloud Study Jams 2025
-        </h1>
-        <h2 className="text-2xl md:text-3xl text-gray-800 dark:text-gray-200 font-semibold mb-5">
-          Veer Surendra Sai University of Technology, Burla
-        </h2>
-        <p className="text-lg md:text-xl text-gray-600 dark:text-gray-400 max-w-3xl mx-auto mb-14 leading-relaxed">
-          Explore the world of Google Cloud with hands-on labs, earn skill
-          badges, and compete with your peers. Track your university’s progress
-          in this exciting global program designed to accelerate your cloud
-          learning journey!
-        </p>
-
-        {/* Countdown */}
+        {/* Countdown Section */}
         {timeLeft && (
-          <div className="mb-16">
-            <span className="text-lg font-medium text-gray-700 dark:text-gray-300 mb-4 block">
-              Program Deadline Countdown
-            </span>
-            <div className="flex justify-center gap-6 sm:gap-10 bg-white/60 dark:bg-[#1E1E1E]/60 backdrop-blur-xl border border-gray-200 dark:border-gray-700 rounded-2xl shadow-lg px-10 py-6">
+          <div className={`max-w-2xl mx-auto mb-20 lg:mb-28 transition-all duration-700 delay-200 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}>
+            <div className="flex items-center justify-center gap-3 mb-6 text-gray-700 dark:text-gray-300">
+              <Clock className="w-5 h-5" />
+              <span className="text-lg font-semibold">Program Deadline Countdown</span>
+            </div>
+            
+            <div className="grid grid-cols-4 gap-3 sm:gap-4 bg-white/80 dark:bg-gray-800/80 backdrop-blur-xl border border-gray-200/60 dark:border-gray-700/60 rounded-2xl shadow-lg p-6">
               {[
                 { label: "Days", value: timeLeft.days },
                 { label: "Hours", value: timeLeft.hours },
@@ -146,12 +191,12 @@ export default function Home() {
               ].map((item, idx) => (
                 <div
                   key={idx}
-                  className="flex flex-col items-center w-20 sm:w-24"
+                  className="flex flex-col items-center p-3 sm:p-4 rounded-xl bg-linear-to-b from-white to-gray-50/80 dark:from-gray-800 dark:to-gray-700/80 shadow-inner"
                 >
-                  <span className="text-4xl font-bold text-[#1A73E8]">
-                    {item.value}
+                  <span className="text-2xl sm:text-3xl font-bold text-gray-900 dark:text-white mb-1">
+                    {item.value.toString().padStart(2, '0')}
                   </span>
-                  <span className="text-xs uppercase tracking-wide text-gray-600 dark:text-gray-400 mt-1">
+                  <span className="text-xs font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wider">
                     {item.label}
                   </span>
                 </div>
@@ -160,86 +205,68 @@ export default function Home() {
           </div>
         )}
 
-        {/* Buttons */}
-        <div className="flex flex-col sm:flex-row justify-center gap-4 mb-20">
-          <Link href="/leaderboard">
-            <Button className="h-12 px-6 rounded-full bg-[#4285F4] hover:bg-[#3367D6] text-white font-semibold shadow-md hover:shadow-lg transition-all duration-300 flex items-center gap-2">
-              <Trophy className="w-5 h-5" />
-              View Leaderboard
-              <ArrowRight className="w-5 h-5" />
-            </Button>
-          </Link>
-          <a
-            href="https://docs.google.com/spreadsheets/d/1yTPHQ4FkNghhx4bc8arij1ZyChFnQxRTxPUwDN3PgMk/edit?gid=0#gid=0"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Button
-              variant="outline"
-              className="h-12 px-6 rounded-full border-[#D2E3FC] hover:bg-[#E8F0FE] text-[#1A73E8] font-semibold flex items-center gap-2 transition-all duration-300"
-            >
-              <FileText className="w-5 h-5" />
-              Syllabus & Resources
-              <ArrowRight className="w-5 h-5" />
-            </Button>
-          </a>
-        </div>
-
         {/* Analytics Section */}
-        <div className="mb-12">
-          <h3 className="text-3xl font-bold text-gray-900 dark:text-gray-100 mb-2">
-            Live University Analytics
-          </h3>
-          <p className="text-gray-600 dark:text-gray-400">
-            Real-time insights from the Cloud Study Jams dashboard
-          </p>
-        </div>
+        <div className={`max-w-7xl mx-auto transition-all duration-700 delay-300 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}>
+          {/* Section Header */}
+          <div className="text-center mb-12">
+            <h3 className="text-3xl sm:text-4xl font-bold text-gray-900 dark:text-white mb-4">
+              Live University Analytics
+            </h3>
+            <p className="text-gray-600 dark:text-gray-400 text-lg max-w-2xl mx-auto">
+              Real-time insights from the Cloud Study Jams dashboard
+            </p>
+          </div>
 
-        {/* Analytics Grid */}
-        <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6 w-full max-w-6xl mx-auto">
-          <AnalyticsCard
-            label="Total Participants"
-            value={data.analytics.totalParticipants}
-            color="#4285F4"
-            icon={<Users className="w-7 h-7" />}
-          />
-          <AnalyticsCard
-            label="Credits Redeemed"
-            value={data.analytics.creditsRedeemed}
-            color="#EA4335"
-            icon={<CreditCard className="w-7 h-7" />}
-          />
-          <AnalyticsCard
-            label="All Badges Completed"
-            value={data.analytics.completedAllBadges}
-            color="#FBBC05"
-            icon={<Trophy className="w-7 h-7" />}
-          />
-          <AnalyticsCard
-            label="Arcade Completed"
-            value={data.analytics.completedArcadeGame}
-            color="#34A853"
-            icon={<Gamepad2 className="w-7 h-7" />}
-          />
-          <AnalyticsCard
-            label="Eligible for Swag"
-            value={data.analytics.eligibleForSwag}
-            color="#9C27B0"
-            icon={<Gift className="w-7 h-7" />}
-          />
-        </section>
+          {/* Analytics Grid */}
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4 sm:gap-6">
+            <AnalyticsCard
+              label="Total Participants"
+              value={data.analytics.totalParticipants}
+              color="#4285F4"
+              icon={<Users className="w-6 h-6" />}
+            />
+            <AnalyticsCard
+              label="Credits Redeemed"
+              value={data.analytics.creditsRedeemed}
+              color="#EA4335"
+              icon={<CreditCard className="w-6 h-6" />}
+            />
+            <AnalyticsCard
+              label="All Badges Completed"
+              value={data.analytics.completedAllBadges}
+              color="#FBBC05"
+              icon={<Trophy className="w-6 h-6" />}
+            />
+            <AnalyticsCard
+              label="Arcade Completed"
+              value={data.analytics.completedArcadeGame}
+              color="#34A853"
+              icon={<Gamepad2 className="w-6 h-6" />}
+            />
+            <AnalyticsCard
+              label="Eligible for Swag"
+              value={data.analytics.eligibleForSwag}
+              color="#9C27B0"
+              icon={<Gift className="w-6 h-6" />}
+            />
+          </div>
+        </div>
 
         {/* Footer */}
-        <footer className="mt-20 text-center text-gray-500 dark:text-gray-400 text-sm">
-          <p>
-            Last updated: {new Date(data.lastUpdated).toLocaleString()} |{" "}
-            <span className="font-medium text-[#1A73E8]">
-              GDG On Campus VSSUT
-            </span>
-          </p>
-          <p className="mt-1">
-            Empowering students to learn, build, and grow with Google Cloud ☁️
-          </p>
+        <footer className={`mt-20 text-center transition-all duration-700 delay-500 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}>
+          <div className="bg-white/60 dark:bg-gray-800/60 backdrop-blur-sm border border-gray-200/60 dark:border-gray-700/60 rounded-2xl p-6 max-w-2xl mx-auto">
+            <p className="text-gray-600 dark:text-gray-400 text-sm font-medium">
+              Last updated: {new Date(data.lastUpdated).toLocaleString()}
+            </p>
+            <p className="mt-2 text-gray-700 dark:text-gray-300">
+              <span className="font-semibold text-blue-600 dark:text-blue-400">
+                GDG On Campus VSSUT
+              </span>
+            </p>
+            <p className="mt-3 text-gray-600 dark:text-gray-400 text-sm">
+              Empowering students to learn, build, and grow with Google Cloud ☁️
+            </p>
+          </div>
         </footer>
       </div>
     </div>

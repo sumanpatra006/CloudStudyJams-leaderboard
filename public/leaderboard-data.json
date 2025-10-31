@@ -1,6 +1,6 @@
 {
   "university": "Veer Surendra Sai University of Technology - Burla, India",
-  "lastUpdated": "2025-10-30T04:20:34.094Z",
+  "lastUpdated": "2025-10-31T03:16:33.998Z",
   "participants": [
     {
       "id": "participant-12",
@@ -26,6 +26,25 @@
       "name": "Vidyoshah Behera",
       "email": "vidyoshahb@gmail.com",
       "profileUrl": "https://www.cloudskillsboost.google/public_profiles/f1189a4b-0f60-4e4c-a12a-9a215317bd9f",
+      "profileStatus": "All Good",
+      "accessCodeRedeemed": true,
+      "skillBadgesCompleted": 19,
+      "completedBadges": [
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Building with AppSheet [Skill Badge] | Develop with Apps Script and AppSheet [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Store",
+        "Process",
+        "and Manage Data on Google Cloud - Console [Skill Badge] | Cloud Run Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop Gen AI Apps with Gemini and Streamlit [Skill Badge]"
+      ],
+      "arcadeGamesCompleted": 1,
+      "completedArcadeGames": [
+        "Level 3: Generative AI [Game]"
+      ],
+      "eligibleForSwag": true
+    },
+    {
+      "id": "participant-29",
+      "name": "Zeeshan firoz",
+      "email": "firozzeeshan25@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/9ddc406a-72f5-4223-bb23-fdf96d33a16b",
       "profileStatus": "All Good",
       "accessCodeRedeemed": true,
       "skillBadgesCompleted": 19,
@@ -98,6 +117,25 @@
       "eligibleForSwag": true
     },
     {
+      "id": "participant-68",
+      "name": "Subhankar Patra",
+      "email": "psubhankar944@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/3d2a4c99-b03f-4519-bfe4-7b557584e68b",
+      "profileStatus": "All Good",
+      "accessCodeRedeemed": true,
+      "skillBadgesCompleted": 19,
+      "completedBadges": [
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Building with AppSheet [Skill Badge] | Develop with Apps Script and AppSheet [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Store",
+        "Process",
+        "and Manage Data on Google Cloud - Console [Skill Badge] | Cloud Run Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop Gen AI Apps with Gemini and Streamlit [Skill Badge]"
+      ],
+      "arcadeGamesCompleted": 1,
+      "completedArcadeGames": [
+        "Level 3: Generative AI [Game]"
+      ],
+      "eligibleForSwag": true
+    },
+    {
       "id": "participant-70",
       "name": "Vysyaraju Hansuja",
       "email": "hansujavysyaraju@gmail.com",
@@ -121,6 +159,25 @@
       "name": "Ashutosh Biswal",
       "email": "biswalashutosh984@gmail.com",
       "profileUrl": "https://www.cloudskillsboost.google/public_profiles/2c7d3662-0153-4841-a8f3-548a6e346d55",
+      "profileStatus": "All Good",
+      "accessCodeRedeemed": true,
+      "skillBadgesCompleted": 19,
+      "completedBadges": [
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Building with AppSheet [Skill Badge] | Develop with Apps Script and AppSheet [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Store",
+        "Process",
+        "and Manage Data on Google Cloud - Console [Skill Badge] | Cloud Run Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop Gen AI Apps with Gemini and Streamlit [Skill Badge]"
+      ],
+      "arcadeGamesCompleted": 1,
+      "completedArcadeGames": [
+        "Level 3: Generative AI [Game]"
+      ],
+      "eligibleForSwag": true
+    },
+    {
+      "id": "participant-88",
+      "name": "Subhashree Sahu",
+      "email": "subhashreesahu794@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/ac1e3ea5-0771-4939-a95b-c9aff3a54618",
       "profileStatus": "All Good",
       "accessCodeRedeemed": true,
       "skillBadgesCompleted": 19,
@@ -231,6 +288,25 @@
       "eligibleForSwag": true
     },
     {
+      "id": "participant-129",
+      "name": "Abhisek Nayak",
+      "email": "abhiseknayak290@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/1ae6081d-467d-46e9-b1f3-5501b908d3af",
+      "profileStatus": "All Good",
+      "accessCodeRedeemed": true,
+      "skillBadgesCompleted": 19,
+      "completedBadges": [
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Building with AppSheet [Skill Badge] | Develop with Apps Script and AppSheet [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Store",
+        "Process",
+        "and Manage Data on Google Cloud - Console [Skill Badge] | Cloud Run Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop Gen AI Apps with Gemini and Streamlit [Skill Badge]"
+      ],
+      "arcadeGamesCompleted": 1,
+      "completedArcadeGames": [
+        "Level 3: Generative AI [Game]"
+      ],
+      "eligibleForSwag": true
+    },
+    {
       "id": "participant-32",
       "name": "Chinmaya Sahoo",
       "email": "dev.chinmaya07@gmail.com",
@@ -265,23 +341,6 @@
       "eligibleForSwag": false
     },
     {
-      "id": "participant-68",
-      "name": "Subhankar Patra",
-      "email": "psubhankar944@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/3d2a4c99-b03f-4519-bfe4-7b557584e68b",
-      "profileStatus": "All Good",
-      "accessCodeRedeemed": true,
-      "skillBadgesCompleted": 19,
-      "completedBadges": [
-        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Building with AppSheet [Skill Badge] | Develop with Apps Script and AppSheet [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Store",
-        "Process",
-        "and Manage Data on Google Cloud - Console [Skill Badge] | Cloud Run Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop Gen AI Apps with Gemini and Streamlit [Skill Badge]"
-      ],
-      "arcadeGamesCompleted": 0,
-      "completedArcadeGames": [],
-      "eligibleForSwag": false
-    },
-    {
       "id": "participant-73",
       "name": "Ataul Wahab",
       "email": "wahab.ataul20052025@gmail.com",
@@ -299,10 +358,10 @@
       "eligibleForSwag": false
     },
     {
-      "id": "participant-88",
-      "name": "Subhashree Sahu",
-      "email": "subhashreesahu794@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/ac1e3ea5-0771-4939-a95b-c9aff3a54618",
+      "id": "participant-122",
+      "name": "Tarun kumar pattanaik",
+      "email": "tarunpatnaik16@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/3e750b88-272c-4a9d-b42f-3fed8e82c4bb",
       "profileStatus": "All Good",
       "accessCodeRedeemed": true,
       "skillBadgesCompleted": 19,
@@ -327,6 +386,23 @@
         "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Building with AppSheet [Skill Badge] | Develop with Apps Script and AppSheet [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Store",
         "Process",
         "and Manage Data on Google Cloud - Console [Skill Badge] | Cloud Run Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop Gen AI Apps with Gemini and Streamlit [Skill Badge]"
+      ],
+      "arcadeGamesCompleted": 0,
+      "completedArcadeGames": [],
+      "eligibleForSwag": false
+    },
+    {
+      "id": "participant-3",
+      "name": "Ankita Naik",
+      "email": "anku.patel2204@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/30b6c71f-fa9c-455a-9388-9e4f3393d909",
+      "profileStatus": "All Good",
+      "accessCodeRedeemed": true,
+      "skillBadgesCompleted": 17,
+      "completedBadges": [
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Building with AppSheet [Skill Badge] | Develop with Apps Script and AppSheet [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Store",
+        "Process",
+        "and Manage Data on Google Cloud - Console [Skill Badge] | Cloud Run Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Prompt Design in Vertex AI [Skill Badge]"
       ],
       "arcadeGamesCompleted": 0,
       "completedArcadeGames": [],
@@ -384,32 +460,34 @@
       "eligibleForSwag": false
     },
     {
-      "id": "participant-24",
-      "name": "P Padarabinda Dash",
-      "email": "ppd04051920@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/797152af-8374-4578-9aa7-88e5a0483f31",
+      "id": "participant-66",
+      "name": "Preetiparnna Behera",
+      "email": "preetiparnna24@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/2f5bc02f-e5d1-4d4a-a534-3866e323bfe2",
       "profileStatus": "All Good",
       "accessCodeRedeemed": true,
-      "skillBadgesCompleted": 14,
+      "skillBadgesCompleted": 16,
       "completedBadges": [
-        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Building with AppSheet [Skill Badge] | Develop with Apps Script and AppSheet [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Store",
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Building with AppSheet [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Store",
         "Process",
-        "and Manage Data on Google Cloud - Console [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge]"
+        "and Manage Data on Google Cloud - Console [Skill Badge] | Cloud Run Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge]"
       ],
-      "arcadeGamesCompleted": 0,
-      "completedArcadeGames": [],
+      "arcadeGamesCompleted": 1,
+      "completedArcadeGames": [
+        "Level 3: Generative AI [Game]"
+      ],
       "eligibleForSwag": false
     },
     {
-      "id": "participant-3",
-      "name": "Ankita Naik",
-      "email": "anku.patel2204@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/30b6c71f-fa9c-455a-9388-9e4f3393d909",
+      "id": "participant-31",
+      "name": "Devdas priyadarshi",
+      "email": "work.dev2003@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/a1244915-437e-42d6-8af2-6a78e2a5321c",
       "profileStatus": "All Good",
       "accessCodeRedeemed": true,
-      "skillBadgesCompleted": 13,
+      "skillBadgesCompleted": 16,
       "completedBadges": [
-        "Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Develop with Apps Script and AppSheet [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Store",
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Building with AppSheet [Skill Badge] | Develop with Apps Script and AppSheet [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Store",
         "Process",
         "and Manage Data on Google Cloud - Console [Skill Badge] | Cloud Run Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge]"
       ],
@@ -418,22 +496,54 @@
       "eligibleForSwag": false
     },
     {
-      "id": "participant-66",
-      "name": "Preetiparnna Behera",
-      "email": "preetiparnna24@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/2f5bc02f-e5d1-4d4a-a534-3866e323bfe2",
+      "id": "participant-24",
+      "name": "P Padarabinda Dash",
+      "email": "ppd04051920@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/797152af-8374-4578-9aa7-88e5a0483f31",
       "profileStatus": "All Good",
       "accessCodeRedeemed": true,
-      "skillBadgesCompleted": 12,
+      "skillBadgesCompleted": 15,
       "completedBadges": [
-        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Building with AppSheet [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Store",
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Building with AppSheet [Skill Badge] | Develop with Apps Script and AppSheet [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Store",
         "Process",
-        "and Manage Data on Google Cloud - Console [Skill Badge] | Cloud Run Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge]"
+        "and Manage Data on Google Cloud - Console [Skill Badge] | Cloud Run Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge]"
       ],
-      "arcadeGamesCompleted": 1,
-      "completedArcadeGames": [
-        "Level 3: Generative AI [Game]"
+      "arcadeGamesCompleted": 0,
+      "completedArcadeGames": [],
+      "eligibleForSwag": false
+    },
+    {
+      "id": "participant-22",
+      "name": "Suman Rani Sabat",
+      "email": "sabatsumanrani@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/c201b5cc-7d0f-4eeb-a62c-b79939bbeee8",
+      "profileStatus": "All Good",
+      "accessCodeRedeemed": true,
+      "skillBadgesCompleted": 14,
+      "completedBadges": [
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Store",
+        "Process",
+        "and Manage Data on Google Cloud - Console [Skill Badge] | Cloud Run Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Develop Gen AI Apps with Gemini and Streamlit [Skill Badge]"
       ],
+      "arcadeGamesCompleted": 0,
+      "completedArcadeGames": [],
+      "eligibleForSwag": false
+    },
+    {
+      "id": "participant-113",
+      "name": "Pradip Kumar Pati",
+      "email": "pradipmmic@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/e6c181fe-e60d-404c-8785-23711510afa9",
+      "profileStatus": "All Good",
+      "accessCodeRedeemed": true,
+      "skillBadgesCompleted": 13,
+      "completedBadges": [
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Building with AppSheet [Skill Badge] | Develop with Apps Script and AppSheet [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Store",
+        "Process",
+        "and Manage Data on Google Cloud - Console [Skill Badge] | Cloud Run Functions: 3 Ways [Skill Badge]"
+      ],
+      "arcadeGamesCompleted": 0,
+      "completedArcadeGames": [],
       "eligibleForSwag": false
     },
     {
@@ -449,8 +559,10 @@
         "Process",
         "and Manage Data on Google Cloud - Console [Skill Badge] | Cloud Run Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge]"
       ],
-      "arcadeGamesCompleted": 0,
-      "completedArcadeGames": [],
+      "arcadeGamesCompleted": 1,
+      "completedArcadeGames": [
+        "Level 3: Generative AI [Game]"
+      ],
       "eligibleForSwag": false
     },
     {
@@ -465,6 +577,23 @@
         "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Building with AppSheet [Skill Badge] | Develop with Apps Script and AppSheet [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Store",
         "Process",
         "and Manage Data on Google Cloud - Console [Skill Badge]"
+      ],
+      "arcadeGamesCompleted": 1,
+      "completedArcadeGames": [
+        "Level 3: Generative AI [Game]"
+      ],
+      "eligibleForSwag": false
+    },
+    {
+      "id": "participant-19",
+      "name": "Nitish Kumar Giri",
+      "email": "girinitishkumar1234@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/5f4e4230-4055-4765-bbcb-5113b340eb58",
+      "profileStatus": "All Good",
+      "accessCodeRedeemed": true,
+      "skillBadgesCompleted": 10,
+      "completedBadges": [
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Building with AppSheet [Skill Badge] | Develop with Apps Script and AppSheet [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge]"
       ],
       "arcadeGamesCompleted": 0,
       "completedArcadeGames": [],
@@ -490,62 +619,15 @@
       "eligibleForSwag": false
     },
     {
-      "id": "participant-29",
-      "name": "Zeeshan firoz",
-      "email": "firozzeeshan25@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/9ddc406a-72f5-4223-bb23-fdf96d33a16b",
-      "profileStatus": "All Good",
-      "accessCodeRedeemed": true,
-      "skillBadgesCompleted": 9,
-      "completedBadges": [
-        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Develop with Apps Script and AppSheet [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Monitoring in Google Cloud [Skill Badge]"
-      ],
-      "arcadeGamesCompleted": 0,
-      "completedArcadeGames": [],
-      "eligibleForSwag": false
-    },
-    {
-      "id": "participant-129",
-      "name": "Abhisek Nayak",
-      "email": "abhiseknayak290@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/1ae6081d-467d-46e9-b1f3-5501b908d3af",
+      "id": "participant-53",
+      "name": "Sayeda Saba Amtul Hallim",
+      "email": "sayedasaba11@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/ac7a21a8-9ddd-49c8-b072-1a4c948589e0",
       "profileStatus": "All Good",
       "accessCodeRedeemed": true,
       "skillBadgesCompleted": 8,
       "completedBadges": [
-        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | App Building with AppSheet [Skill Badge] | Build a Website on Google Cloud [Skill Badge]"
-      ],
-      "arcadeGamesCompleted": 1,
-      "completedArcadeGames": [
-        "Level 3: Generative AI [Game]"
-      ],
-      "eligibleForSwag": false
-    },
-    {
-      "id": "participant-31",
-      "name": "Devdas priyadarshi",
-      "email": "work.dev2003@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/a1244915-437e-42d6-8af2-6a78e2a5321c",
-      "profileStatus": "All Good",
-      "accessCodeRedeemed": true,
-      "skillBadgesCompleted": 8,
-      "completedBadges": [
-        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Building with AppSheet [Skill Badge] | Develop with Apps Script and AppSheet [Skill Badge]"
-      ],
-      "arcadeGamesCompleted": 0,
-      "completedArcadeGames": [],
-      "eligibleForSwag": false
-    },
-    {
-      "id": "participant-122",
-      "name": "Tarun kumar pattanaik",
-      "email": "tarunpatnaik16@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/3e750b88-272c-4a9d-b42f-3fed8e82c4bb",
-      "profileStatus": "All Good",
-      "accessCodeRedeemed": true,
-      "skillBadgesCompleted": 8,
-      "completedBadges": [
-        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Building with AppSheet [Skill Badge]"
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Cloud Run Functions: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Develop Gen AI Apps with Gemini and Streamlit [Skill Badge]"
       ],
       "arcadeGamesCompleted": 0,
       "completedArcadeGames": [],
@@ -563,6 +645,21 @@
         "Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Store",
         "Process",
         "and Manage Data on Google Cloud - Console [Skill Badge] | Cloud Run Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge]"
+      ],
+      "arcadeGamesCompleted": 0,
+      "completedArcadeGames": [],
+      "eligibleForSwag": false
+    },
+    {
+      "id": "participant-139",
+      "name": "Chirag Dalai",
+      "email": "dalaichirag0511@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/4db60dc0-8936-4682-a7df-dcd12b248129",
+      "profileStatus": "All Good",
+      "accessCodeRedeemed": true,
+      "skillBadgesCompleted": 8,
+      "completedBadges": [
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Develop with Apps Script and AppSheet [Skill Badge]"
       ],
       "arcadeGamesCompleted": 0,
       "completedArcadeGames": [],
@@ -601,15 +698,15 @@
       "eligibleForSwag": false
     },
     {
-      "id": "participant-53",
-      "name": "Sayeda Saba Amtul Hallim",
-      "email": "sayedasaba11@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/ac7a21a8-9ddd-49c8-b072-1a4c948589e0",
+      "id": "participant-42",
+      "name": "Debendra Barik",
+      "email": "barikdebendra7608@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/21a9c547-4cf5-4467-a0ba-cbcbd78cfc3c",
       "profileStatus": "All Good",
       "accessCodeRedeemed": true,
       "skillBadgesCompleted": 7,
       "completedBadges": [
-        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Cloud Run Functions: 3 Ways [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Develop Gen AI Apps with Gemini and Streamlit [Skill Badge]"
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge]"
       ],
       "arcadeGamesCompleted": 0,
       "completedArcadeGames": [],
@@ -620,36 +717,6 @@
       "name": "Barun kumar pujari",
       "email": "bkpujari2004@gmail.com",
       "profileUrl": "https://www.cloudskillsboost.google/public_profiles/f175afc0-b33a-4e1e-95cd-b34c40ab7d2b",
-      "profileStatus": "All Good",
-      "accessCodeRedeemed": true,
-      "skillBadgesCompleted": 7,
-      "completedBadges": [
-        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge]"
-      ],
-      "arcadeGamesCompleted": 0,
-      "completedArcadeGames": [],
-      "eligibleForSwag": false
-    },
-    {
-      "id": "participant-113",
-      "name": "Pradip Kumar Pati",
-      "email": "pradipmmic@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/e6c181fe-e60d-404c-8785-23711510afa9",
-      "profileStatus": "All Good",
-      "accessCodeRedeemed": true,
-      "skillBadgesCompleted": 7,
-      "completedBadges": [
-        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge]"
-      ],
-      "arcadeGamesCompleted": 0,
-      "completedArcadeGames": [],
-      "eligibleForSwag": false
-    },
-    {
-      "id": "participant-139",
-      "name": "Chirag Dalai",
-      "email": "dalaichirag0511@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/4db60dc0-8936-4682-a7df-dcd12b248129",
       "profileStatus": "All Good",
       "accessCodeRedeemed": true,
       "skillBadgesCompleted": 7,
@@ -693,30 +760,15 @@
       "eligibleForSwag": false
     },
     {
-      "id": "participant-19",
-      "name": "Nitish Kumar Giri",
-      "email": "girinitishkumar1234@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/5f4e4230-4055-4765-bbcb-5113b340eb58",
+      "id": "participant-40",
+      "name": "Rajesh Kumar Sahoo",
+      "email": "rajesh95561@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/ed2abccc-451a-455b-a394-d9ed5b8fac34",
       "profileStatus": "All Good",
       "accessCodeRedeemed": true,
       "skillBadgesCompleted": 6,
       "completedBadges": [
-        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge]"
-      ],
-      "arcadeGamesCompleted": 0,
-      "completedArcadeGames": [],
-      "eligibleForSwag": false
-    },
-    {
-      "id": "participant-42",
-      "name": "Debendra Barik",
-      "email": "barikdebendra7608@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/21a9c547-4cf5-4467-a0ba-cbcbd78cfc3c",
-      "profileStatus": "All Good",
-      "accessCodeRedeemed": true,
-      "skillBadgesCompleted": 6,
-      "completedBadges": [
-        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Get Started with Dataplex [Skill Badge]"
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Build a Website on Google Cloud [Skill Badge]"
       ],
       "arcadeGamesCompleted": 0,
       "completedArcadeGames": [],
@@ -740,15 +792,30 @@
       "eligibleForSwag": false
     },
     {
-      "id": "participant-22",
-      "name": "Suman Rani Sabat",
-      "email": "sabatsumanrani@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/c201b5cc-7d0f-4eeb-a62c-b79939bbeee8",
+      "id": "participant-1",
+      "name": "Mohan Kumar Dash",
+      "email": "mohankumardash238@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/a905fa75-013a-46a0-95a5-7e46b4b279b8",
       "profileStatus": "All Good",
       "accessCodeRedeemed": true,
       "skillBadgesCompleted": 5,
       "completedBadges": [
         "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Build a Website on Google Cloud [Skill Badge]"
+      ],
+      "arcadeGamesCompleted": 0,
+      "completedArcadeGames": [],
+      "eligibleForSwag": false
+    },
+    {
+      "id": "participant-75",
+      "name": "Jyoti Ranjan Panda",
+      "email": "jyotiranjanteck935@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/704b8e82-b469-4b8c-8d75-f535993f9a98",
+      "profileStatus": "All Good",
+      "accessCodeRedeemed": true,
+      "skillBadgesCompleted": 5,
+      "completedBadges": [
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge]"
       ],
       "arcadeGamesCompleted": 0,
       "completedArcadeGames": [],
@@ -787,18 +854,20 @@
       "eligibleForSwag": false
     },
     {
-      "id": "participant-1",
-      "name": "Mohan Kumar Dash",
-      "email": "mohankumardash238@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/a905fa75-013a-46a0-95a5-7e46b4b279b8",
+      "id": "participant-133",
+      "name": "Divyanshu Kumari",
+      "email": "kumaridivyanshu3004@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/a3f8c37d-8d8a-4a1a-a4b3-18b933ca3ef2",
       "profileStatus": "All Good",
       "accessCodeRedeemed": true,
       "skillBadgesCompleted": 4,
       "completedBadges": [
         "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge]"
       ],
-      "arcadeGamesCompleted": 0,
-      "completedArcadeGames": [],
+      "arcadeGamesCompleted": 1,
+      "completedArcadeGames": [
+        "Level 3: Generative AI [Game]"
+      ],
       "eligibleForSwag": false
     },
     {
@@ -847,15 +916,30 @@
       "eligibleForSwag": false
     },
     {
-      "id": "participant-133",
-      "name": "Divyanshu Kumari",
-      "email": "kumaridivyanshu3004@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/a3f8c37d-8d8a-4a1a-a4b3-18b933ca3ef2",
+      "id": "participant-109",
+      "name": "ANURAAG BISOYI",
+      "email": "anuraagcourse@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/1fa2f419-c65d-4b78-825b-f303236e143d",
       "profileStatus": "All Good",
       "accessCodeRedeemed": true,
       "skillBadgesCompleted": 4,
       "completedBadges": [
-        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge]"
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge]"
+      ],
+      "arcadeGamesCompleted": 0,
+      "completedArcadeGames": [],
+      "eligibleForSwag": false
+    },
+    {
+      "id": "participant-81",
+      "name": "G Ketan Srinivas Dora",
+      "email": "gketandora@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/33d5554a-58bf-4260-8d8d-bccd383e2f36",
+      "profileStatus": "All Good",
+      "accessCodeRedeemed": true,
+      "skillBadgesCompleted": 3,
+      "completedBadges": [
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Pub/Sub [Skill Badge]"
       ],
       "arcadeGamesCompleted": 0,
       "completedArcadeGames": [],
@@ -871,6 +955,21 @@
       "skillBadgesCompleted": 2,
       "completedBadges": [
         "Get Started with Pub/Sub [Skill Badge] | Get Started with API Gateway [Skill Badge]"
+      ],
+      "arcadeGamesCompleted": 0,
+      "completedArcadeGames": [],
+      "eligibleForSwag": false
+    },
+    {
+      "id": "participant-135",
+      "name": "Aryajyoti Biswal",
+      "email": "biswalaryajyoti@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/32785998-bc1e-4e3f-b9cc-ed64220bce1e",
+      "profileStatus": "All Good",
+      "accessCodeRedeemed": true,
+      "skillBadgesCompleted": 2,
+      "completedBadges": [
+        "The Basics of Google Cloud Compute [Skill Badge] | Get Started with Dataplex [Skill Badge]"
       ],
       "arcadeGamesCompleted": 0,
       "completedArcadeGames": [],
@@ -924,21 +1023,6 @@
       "eligibleForSwag": false
     },
     {
-      "id": "participant-81",
-      "name": "G Ketan Srinivas Dora",
-      "email": "gketandora@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/33d5554a-58bf-4260-8d8d-bccd383e2f36",
-      "profileStatus": "All Good",
-      "accessCodeRedeemed": true,
-      "skillBadgesCompleted": 1,
-      "completedBadges": [
-        "The Basics of Google Cloud Compute [Skill Badge]"
-      ],
-      "arcadeGamesCompleted": 0,
-      "completedArcadeGames": [],
-      "eligibleForSwag": false
-    },
-    {
       "id": "participant-83",
       "name": "Prajna paramita pandi",
       "email": "prajnaparamitapandi213@gmail.com",
@@ -969,25 +1053,55 @@
       "eligibleForSwag": false
     },
     {
-      "id": "participant-135",
-      "name": "Aryajyoti Biswal",
-      "email": "biswalaryajyoti@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/32785998-bc1e-4e3f-b9cc-ed64220bce1e",
-      "profileStatus": "All Good",
-      "accessCodeRedeemed": true,
-      "skillBadgesCompleted": 1,
-      "completedBadges": [
-        "The Basics of Google Cloud Compute [Skill Badge]"
-      ],
-      "arcadeGamesCompleted": 0,
-      "completedArcadeGames": [],
-      "eligibleForSwag": false
-    },
-    {
       "id": "participant-5",
       "name": "Aayush Kumar Prasad",
       "email": "aayushprasad42@gmail.com",
       "profileUrl": "https://www.cloudskillsboost.google/public_profiles/e98dc72a-c67b-474b-bd8b-f6353aa2e53e",
+      "profileStatus": "All Good",
+      "accessCodeRedeemed": true,
+      "skillBadgesCompleted": 0,
+      "completedBadges": [],
+      "arcadeGamesCompleted": 1,
+      "completedArcadeGames": [
+        "Level 3: Generative AI [Game]"
+      ],
+      "eligibleForSwag": false
+    },
+    {
+      "id": "participant-69",
+      "name": "Sibananda bishoyi",
+      "email": "siba87129@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/cd2878d2-f9b4-41e9-b257-875b5ebf90e7",
+      "profileStatus": "All Good",
+      "accessCodeRedeemed": true,
+      "skillBadgesCompleted": 0,
+      "completedBadges": [],
+      "arcadeGamesCompleted": 1,
+      "completedArcadeGames": [
+        "Level 3: Generative AI [Game]"
+      ],
+      "eligibleForSwag": false
+    },
+    {
+      "id": "participant-80",
+      "name": "Biswajit Sahu",
+      "email": "eee.055.biswajit.2024.28@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/19d6f8e3-dce4-4607-829a-5c7c26743caa",
+      "profileStatus": "All Good",
+      "accessCodeRedeemed": true,
+      "skillBadgesCompleted": 0,
+      "completedBadges": [],
+      "arcadeGamesCompleted": 1,
+      "completedArcadeGames": [
+        "Level 3: Generative AI [Game]"
+      ],
+      "eligibleForSwag": false
+    },
+    {
+      "id": "participant-121",
+      "name": "Abhishek Singh",
+      "email": "studyjamabhishek@gmail.com",
+      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/bb623631-9545-40a9-8798-f1bc907bc0f0",
       "profileStatus": "All Good",
       "accessCodeRedeemed": true,
       "skillBadgesCompleted": 0,
@@ -1246,19 +1360,6 @@
       "eligibleForSwag": false
     },
     {
-      "id": "participant-40",
-      "name": "Rajesh Kumar Sahoo",
-      "email": "rajesh95561@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/ed2abccc-451a-455b-a394-d9ed5b8fac34",
-      "profileStatus": "All Good",
-      "accessCodeRedeemed": true,
-      "skillBadgesCompleted": 0,
-      "completedBadges": [],
-      "arcadeGamesCompleted": 0,
-      "completedArcadeGames": [],
-      "eligibleForSwag": false
-    },
-    {
       "id": "participant-44",
       "name": "Satyapriya Samanta",
       "email": "satyapriyasamantaraya40@gmail.com",
@@ -1480,19 +1581,6 @@
       "eligibleForSwag": false
     },
     {
-      "id": "participant-69",
-      "name": "Sibananda bishoyi",
-      "email": "siba87129@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/cd2878d2-f9b4-41e9-b257-875b5ebf90e7",
-      "profileStatus": "All Good",
-      "accessCodeRedeemed": true,
-      "skillBadgesCompleted": 0,
-      "completedBadges": [],
-      "arcadeGamesCompleted": 0,
-      "completedArcadeGames": [],
-      "eligibleForSwag": false
-    },
-    {
       "id": "participant-71",
       "name": "Litu Biswal",
       "email": "litubiswal00013@gmail.com",
@@ -1519,36 +1607,10 @@
       "eligibleForSwag": false
     },
     {
-      "id": "participant-75",
-      "name": "Jyoti Ranjan Panda",
-      "email": "jyotiranjanteck935@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/704b8e82-b469-4b8c-8d75-f535993f9a98",
-      "profileStatus": "All Good",
-      "accessCodeRedeemed": false,
-      "skillBadgesCompleted": 0,
-      "completedBadges": [],
-      "arcadeGamesCompleted": 0,
-      "completedArcadeGames": [],
-      "eligibleForSwag": false
-    },
-    {
       "id": "participant-79",
       "name": "Swastika Samant",
       "email": "swastikastudy14@gmail.com",
       "profileUrl": "https://www.cloudskillsboost.google/public_profiles/6020f087-e6dc-4997-b6f5-f284a98cb4dd",
-      "profileStatus": "All Good",
-      "accessCodeRedeemed": true,
-      "skillBadgesCompleted": 0,
-      "completedBadges": [],
-      "arcadeGamesCompleted": 0,
-      "completedArcadeGames": [],
-      "eligibleForSwag": false
-    },
-    {
-      "id": "participant-80",
-      "name": "Biswajit Sahu",
-      "email": "eee.055.biswajit.2024.28@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/19d6f8e3-dce4-4607-829a-5c7c26743caa",
       "profileStatus": "All Good",
       "accessCodeRedeemed": true,
       "skillBadgesCompleted": 0,
@@ -1805,19 +1867,6 @@
       "eligibleForSwag": false
     },
     {
-      "id": "participant-109",
-      "name": "ANURAAG BISOYI",
-      "email": "anuraagcourse@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/1fa2f419-c65d-4b78-825b-f303236e143d",
-      "profileStatus": "All Good",
-      "accessCodeRedeemed": true,
-      "skillBadgesCompleted": 0,
-      "completedBadges": [],
-      "arcadeGamesCompleted": 0,
-      "completedArcadeGames": [],
-      "eligibleForSwag": false
-    },
-    {
       "id": "participant-110",
       "name": "Nikita Pradhan",
       "email": "chibbaniki03@gmail.com",
@@ -1889,19 +1938,6 @@
       "profileUrl": "https://www.cloudskillsboost.google/public_profiles/3039b78e-d0a9-4b28-b37a-eb55f58bde42",
       "profileStatus": "All Good",
       "accessCodeRedeemed": false,
-      "skillBadgesCompleted": 0,
-      "completedBadges": [],
-      "arcadeGamesCompleted": 0,
-      "completedArcadeGames": [],
-      "eligibleForSwag": false
-    },
-    {
-      "id": "participant-121",
-      "name": "Abhishek Singh",
-      "email": "studyjamabhishek@gmail.com",
-      "profileUrl": "https://www.cloudskillsboost.google/public_profiles/bb623631-9545-40a9-8798-f1bc907bc0f0",
-      "profileStatus": "All Good",
-      "accessCodeRedeemed": true,
       "skillBadgesCompleted": 0,
       "completedBadges": [],
       "arcadeGamesCompleted": 0,
@@ -2041,9 +2077,9 @@
   ],
   "analytics": {
     "totalParticipants": 140,
-    "completedAllBadges": 17,
-    "completedArcadeGame": 21,
-    "eligibleForSwag": 12,
-    "creditsRedeemed": 102
+    "completedAllBadges": 20,
+    "completedArcadeGame": 30,
+    "eligibleForSwag": 16,
+    "creditsRedeemed": 103
   }
 }
